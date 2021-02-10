@@ -1,6 +1,6 @@
-<mxfile modified="2021-02-10T22:16:03.600Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="BN2J31aNs-_Bqw4iDbpn" version="14.3.0" type="github">
+<mxfile modified="2021-02-10T22:16:56.641Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="-5vBYTsBdKj8HpYkdxBN" version="14.3.0" type="github">
   <diagram id="BpMc_wIemM8xeoXVJJny" name="Page-1">
-    <mxGraphModel dx="12705" dy="9708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="24792" dy="16313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2306,10 +2306,10 @@
           <mxGeometry x="-2320" y="4650" width="410" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SHwfKiG8VsqnQbQ3AwZ6-10" value="Структура власти в Российской Федерации" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=120;labelBorderColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="-3590" width="2670" height="20" as="geometry" />
+          <mxGeometry x="930" y="-3590" width="2670" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SHwfKiG8VsqnQbQ3AwZ6-12" value="Закрепленная в Конституции и Федеральных Законах&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelBorderColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1407.5" y="-3500" width="2500" height="140" as="geometry" />
+          <mxGeometry x="1015" y="-3490" width="2500" height="140" as="geometry" />
         </mxCell>
         <mxCell id="W52z5R1uV8FoztoyUjx4-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=13;fontSize=17;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBorderColor=none;" parent="1" source="6s66NV4vt8chrmx0iCpv-6" target="Mk7M2zyxqF1nJRzXnvX3-87" edge="1">
           <mxGeometry relative="1" as="geometry">
