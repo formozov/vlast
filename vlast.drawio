@@ -1,6 +1,6 @@
-<mxfile modified="2021-05-13T19:32:07.731Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="A96-6weNX_x-Y-hmRkb6" version="14.4.2" type="github">
+<mxfile modified="2021-05-13T20:48:29.574Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="cd1H1mkZKa_kdfoK8ifW" version="14.4.2" type="github">
   <diagram id="BpMc_wIemM8xeoXVJJny" name="Page-1">
-    <mxGraphModel dx="14127" dy="10485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="21237" dy="14370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1323,8 +1323,27 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="0IAy4fin3Eu9jnIjT8fI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kGjvelWIJtfiSNhEpvxC-32" target="6s66NV4vt8chrmx0iCpv-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1580" y="4960" />
+              <mxPoint x="-1410" y="4960" />
+              <mxPoint x="-1410" y="3235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kGjvelWIJtfiSNhEpvxC-32" value="&lt;b&gt;&lt;font style=&quot;font-size: 50px&quot;&gt;Обращения граждан&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=25;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1820" y="5160" width="480" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="0IAy4fin3Eu9jnIjT8fI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="kGjvelWIJtfiSNhEpvxC-33" target="6s66NV4vt8chrmx0iCpv-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1170" y="4980" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1111" y="5020" />
+              <mxPoint x="-1400" y="5020" />
+              <mxPoint x="-1400" y="3263" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="kGjvelWIJtfiSNhEpvxC-33" value="&lt;font style=&quot;font-size: 50px&quot;&gt;Публичная критика и анализ работы&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=19;fontStyle=1;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1280" y="5270" width="674" height="140" as="geometry" />
@@ -1480,7 +1499,7 @@
           <mxGeometry x="-1980" y="2910" width="620" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ab2DdX4QhRRAykU8MVpS-68" value="разрабатывает и представляет Государственной думе федеральный бюджет и обеспечивает его исполнение; представляет Государственной думе отчёт об исполнении федерального бюджета; представляет Государственной думе ежегодные отчёты о результатах своей деятельности, в том числе по вопросам, поставленным Государственной думой;" style="text;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;labelBorderColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1566" y="3524.5" width="480" height="170" as="geometry" />
+          <mxGeometry x="-1330" y="3495" width="480" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ab2DdX4QhRRAykU8MVpS-70" value="Заместители председателя правительства" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fontSize=17;fontColor=#000000;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1230" y="2705" width="180" height="90" as="geometry" />
@@ -2620,7 +2639,7 @@
           <mxGeometry x="2600" y="3425" width="1000" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rGJ6rxJ562zMxrq6lQgL-20" value="Сбербанк &lt;br style=&quot;font-size: 14px;&quot;&gt;(&lt;span style=&quot;color: rgb(32, 33, 34); font-family: sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;52,3&amp;nbsp;% простых акций&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;labelBorderColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1591" y="3300" width="200" height="80" as="geometry" />
+          <mxGeometry x="-1660" y="3305" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JpQDv14zgwYBm9CtY0oU-2" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBorderColor=none;" parent="1" source="iTT8eVq7EilZ3OoHS7Q0-152" target="iTT8eVq7EilZ3OoHS7Q0-150" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -4394,6 +4413,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0IAy4fin3Eu9jnIjT8fI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mk7M2zyxqF1nJRzXnvX3-204" target="6s66NV4vt8chrmx0iCpv-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-438" y="5170" />
+              <mxPoint x="-730" y="5170" />
+              <mxPoint x="-730" y="4870" />
+              <mxPoint x="-1390" y="4870" />
+              <mxPoint x="-1390" y="3208" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Mk7M2zyxqF1nJRzXnvX3-204" value="&lt;b&gt;&lt;font style=&quot;font-size: 50px&quot;&gt;Общественные комиссии&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;fontSize=20;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="-716.25" y="5464.5" width="556.25" height="120" as="geometry" />
         </mxCell>
@@ -4636,6 +4666,9 @@
         </mxCell>
         <mxCell id="0IAy4fin3Eu9jnIjT8fI-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Независимые СМИ&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-4463.68" y="-2170" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0IAy4fin3Eu9jnIjT8fI-6" value="&lt;b style=&quot;font-size: 50px&quot;&gt;&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; white-space: normal ; background-color: rgb(255 , 255 , 255)&quot;&gt;&quot;Гражданское общество&quot;&lt;/span&gt;&lt;/b&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3658.679999999999" y="-3030" width="640" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
