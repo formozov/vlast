@@ -1,6 +1,6 @@
-<mxfile modified="2021-06-05T21:26:05.601Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="u6STmbkOcfFoaKYO0PrW" version="14.6.13" type="github">
+<mxfile modified="2021-06-05T21:27:26.291Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="ZucAMl13FKy54jW3Kux8" version="14.6.13" type="github">
   <diagram id="BpMc_wIemM8xeoXVJJny" name="Page-1">
-    <mxGraphModel dx="9387" dy="7895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="16497" dy="11780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4015,7 +4015,8 @@
               <mxPoint x="-3351" y="-700" />
               <mxPoint x="-5070" y="-700" />
               <mxPoint x="-5070" y="-3070" />
-              <mxPoint x="-2583" y="-3070" />
+              <mxPoint x="-2690" y="-3070" />
+              <mxPoint x="-2690" y="-3090" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -4702,8 +4703,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CnSB5WjEqUv2LkuJzuw6-8" value="&lt;font style=&quot;font-size: 29px&quot;&gt;Адвокаты&lt;br&gt;80 т.ч.&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-3620" y="-324" width="160" height="85" as="geometry" />
+        <mxCell id="CnSB5WjEqUv2LkuJzuw6-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=4;" edge="1" parent="1" source="CnSB5WjEqUv2LkuJzuw6-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2055" y="-2330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CnSB5WjEqUv2LkuJzuw6-8" value="&lt;font style=&quot;font-size: 30px&quot;&gt;Адвокаты&lt;br&gt;80 т.ч.&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3620" y="-324" width="200" height="94" as="geometry" />
         </mxCell>
         <mxCell id="CnSB5WjEqUv2LkuJzuw6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;endArrow=none;endFill=0;" edge="1" parent="1" source="CnSB5WjEqUv2LkuJzuw6-11" target="CnSB5WjEqUv2LkuJzuw6-14">
           <mxGeometry relative="1" as="geometry" />
