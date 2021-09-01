@@ -37,8 +37,8 @@ article can also be applied to the analysis of the legal systems of other states
 вышеописанной диаграммы, имеет серьезное преимущество перед текстом, поскольку является подспорьем для построения целостной модели
 государства и анализа динамики его работы. В дополнение к этому оно также несет в себе образовательную и просветительскую функцию.
 Подобное построение полной структуры связей системы широко зарекомендовало себя в нейробиологии, где оно носит название коннектома (connectome)
-([Анохин](https://elibrary.ru/item.asp?id=26456573), [Сеунг](), [Sporns]()) и является базовым шагом для последующих исследований функциональной работы системы ([Bargmann]()). Таким образом, с методологической точки зрения описание полной структуры государства являться мостом между общественными, с одной стороны, и биологическими науками с другой.
-В последних был разработан и опробован широкий ряд методов для анализа связных систем ([Bargmann](), [Kaiser](), [Fornito]()). 
+([Анохин](https://elibrary.ru/item.asp?id=26456573), [Сеунг](https://www.health-source.ru/wp-content/uploads/2018/12/sebastyan-seung.pdf), [Sporns](https://behavioralhealth2000.com/wp-content/uploads/2017/05/The-human-connectome-a-complex-network.pdf)) и является базовым шагом для последующих исследований функциональной работы системы ([Bargmann](https://www.nature.com/articles/nmeth.2451)). Таким образом, с методологической точки зрения описание полной структуры государства являться мостом между общественными, с одной стороны, и биологическими науками с другой.
+В последних был разработан и опробован широкий ряд методов для анализа связных систем ([Bargmann](https://www.nature.com/articles/nmeth.2451), [Kaiser](https://www.sciencedirect.com/science/article/pii/S1053811911005131?casa_token=lJthTB8UHywAAAAA:YBn02gvQeSOBIe9am3EDSOceDfwDsgGnzZIeYVYtXR8qznZcG1i3E4R9x8ciEVSn6uuqM3W-), [Fornito](https://doi.org/10.1016/j.neuroimage.2013.04.087)). 
  
 Стоит отметить ряд монографий по конституционному праву ([Нудненко](), [Енгибарян](), [Козлова](), [Аглеева](), [Безуглов](), [Чиркин](), [Габричидзе](), [Эбзеев](), [Григонис]() и др.) и особенно пособие [Костериной Э. В.](), выполненное в виде диаграмм и таблиц. В данном пособии впервые была предпринята попытка систематического изложения и представления структуры государства в виде ряда диаграмм. В отличии от данного пособия в текущей работе власть не разделена на отдельные части, а представлена в виде единой взаимосвязанной диаграммы. 
 
@@ -69,15 +69,15 @@ article can also be applied to the analysis of the legal systems of other states
 
 Анохин, К. В. "Коннектом и когнитом: заполнение разрыва между мозгом и разумом." *The Seventh International Conference on cognitive science*, 2016.
 
-Сеунг, Себастьян. "Коннектом. Как мозг делает нас тем, что мы есть." *БИНОМ. Лаборатория знаний*
+Сеунг, С. "Коннектом. Как мозг делает нас тем, что мы есть." *БИНОМ. Лаборатория знаний*
 
-Sporns, Olaf. "The human connectome: a complex network." *Annals of the new York Academy of Sciences* **1224.1** (2011): 109-125.
+Sporns, O. "The human connectome: a complex network." *Annals of the new York Academy of Sciences* **1224.1** (2011): 109-125.
 
-Bargmann, Cornelia I., and Eve Marder. "From the connectome to brain function." *Nature methods* **10.6** (2013): 483-490.
+Bargmann, C.I., and Marder, E. "From the connectome to brain function." *Nature methods* **10.6** (2013): 483-490.
 
-Fornito, Alex, Andrew Zalesky, and Michael Breakspear. "Graph analysis of the human connectome: promise, progress, and pitfalls." *Neuroimage* **80** (2013): 426-444.
+Kaiser, M. "A tutorial in connectome analysis: topological and spatial features of brain networks." *Neuroimage* **57.3** (2011): 892-907.
 
-Kaiser, Marcus. "A tutorial in connectome analysis: topological and spatial features of brain networks." *Neuroimage* **57.3** (2011): 892-907.
+Fornito, A. et al. "Graph analysis of the human connectome: promise, progress, and pitfalls." *Neuroimage* **80** (2013): 426-444.
 
 Diagram of the Federal Government and American Union by N. Mendal Shafer, attorney and counseller at law, office no. 5 Masonic Temple, Cincinnati / lith. by Ehrgott, Forbriger & Co.
 
