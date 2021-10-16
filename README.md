@@ -8,7 +8,7 @@
 [^1]: Корреспонденция: formozoff [at] gmail.com
 
 
-![preview](preview.png)
+![preview](vlast_m.png)
 
 
 
