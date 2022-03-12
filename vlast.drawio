@@ -1,6 +1,6 @@
-<mxfile modified="2022-03-12T09:22:05.987Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="V6rGXkThFuDdctWblU4G" version="16.6.6" type="github">
+<mxfile modified="2022-03-12T10:23:02.658Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="DTeEVsmUzltjas-lqWVJ" version="16.6.6" type="github">
   <diagram id="BpMc_wIemM8xeoXVJJny" name="Page-1">
-    <mxGraphModel dx="8155" dy="7250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="16497" dy="12013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,7 +95,7 @@
             <mxPoint x="4835" y="-129.54000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6s66NV4vt8chrmx0iCpv-16" value="&lt;font style=&quot;font-size: 50px&quot;&gt;&lt;b&gt;&lt;br&gt;Федеральное собрание (450 депутатов)&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=1;fillColor=#ffffff;fontSize=22;labelBorderColor=none;" parent="1" vertex="1">
+        <mxCell id="6s66NV4vt8chrmx0iCpv-16" value="&lt;font style=&quot;font-size: 60px&quot;&gt;&lt;b&gt;&lt;br&gt;Федеральное собрание (450 депутатов)&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=1;fillColor=#ffffff;fontSize=22;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="1697.4999999999998" y="-176.75" width="797.5" height="319.75" as="geometry" />
         </mxCell>
         <mxCell id="W52z5R1uV8FoztoyUjx4-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=4;fontSize=17;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBorderColor=none;" parent="1" source="JpQDv14zgwYBm9CtY0oU-103" target="JpQDv14zgwYBm9CtY0oU-96" edge="1">
@@ -106,9 +106,6 @@
               <mxPoint x="1340" y="1190" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="BOK2Z9U-mobNOYfkqRVI-3" value="&lt;span style=&quot;font-size: 70px&quot;&gt;Российская Федерация - Россия есть &lt;b&gt;демократическое&lt;/b&gt; &lt;b&gt;федеративное правовое&lt;/b&gt; государство с республиканской формой правления &lt;a href=&quot;http://www.constitution.ru/10003000/10003000-3.htm&quot;&gt;(КРФ ст. 1)&lt;/a&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=22;labelBorderColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1121.25" y="-3400" width="2502.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GtnLi8yjGZ3-MFOPNdKZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBorderColor=none;strokeWidth=6;" parent="1" source="BOK2Z9U-mobNOYfkqRVI-6" target="GtnLi8yjGZ3-MFOPNdKZ-9" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2326,7 +2323,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KRtzQ-ltg1E8PNuTRDg_-6" value="&lt;font&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Граждане РФ за рубежом&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;labelBorderColor=none;" parent="1" vertex="1">
+        <mxCell id="KRtzQ-ltg1E8PNuTRDg_-6" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Граждане РФ за рубежом&lt;/font&gt;&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="452.44000000000005" y="-2250" width="547.57" height="330" as="geometry" />
         </mxCell>
         <mxCell id="Mk7M2zyxqF1nJRzXnvX3-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.058;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeWidth=2;fontSize=25;labelBorderColor=none;" parent="1" source="eh7HL7OBC8kC3XnPBXBQ-2" target="6s66NV4vt8chrmx0iCpv-6" edge="1">
@@ -2348,12 +2345,6 @@
         </mxCell>
         <mxCell id="SHwfKiG8VsqnQbQ3AwZ6-4" value="&lt;h1 id=&quot;firstHeading&quot; class=&quot;firstHeading&quot; lang=&quot;ru&quot; style=&quot;margin: 0px 0px 0.25em ; padding: 0px ; overflow: visible ; border-bottom: 1px solid rgb(162 , 169 , 177) ; font-size: 1.8em ; font-weight: normal ; font-family: &amp;#34;linux libertine&amp;#34; , &amp;#34;georgia&amp;#34; , &amp;#34;times&amp;#34; , serif ; line-height: 1.3&quot;&gt;Федеральное агентство по делам национальностей&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1980" y="4440" width="410" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="SHwfKiG8VsqnQbQ3AwZ6-10" value="Структура власти в Российской Федерации" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=120;labelBorderColor=none;" parent="1" vertex="1">
-          <mxGeometry x="920" y="-3790" width="2670" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="SHwfKiG8VsqnQbQ3AwZ6-12" value="Закрепленная в Конституции и Федеральных Законах&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelBorderColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1067.5" y="-3670" width="2500" height="140" as="geometry" />
         </mxCell>
         <mxCell id="W52z5R1uV8FoztoyUjx4-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=14;fontSize=17;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBorderColor=none;" parent="1" source="6s66NV4vt8chrmx0iCpv-6" target="Mk7M2zyxqF1nJRzXnvX3-87" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2412,10 +2403,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6s66NV4vt8chrmx0iCpv-6" value="&lt;h2 style=&quot;font-size: 70px&quot;&gt;&lt;font style=&quot;font-size: 70px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/h2&gt;&lt;h2 style=&quot;font-size: 70px&quot;&gt;&lt;font style=&quot;font-size: 70px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/h2&gt;&lt;h2 style=&quot;font-size: 70px&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/h2&gt;&lt;h2 style=&quot;font-size: 70px&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Многонациональный народ -&lt;/span&gt;&lt;br&gt;&lt;/h2&gt;&lt;h2 style=&quot;font-size: 70px&quot;&gt;&lt;font style=&quot;font-size: 70px&quot;&gt;Единственный источник власти в Российской Федерации&lt;/font&gt;&lt;/h2&gt;&lt;font style=&quot;font-size: 70px&quot;&gt;&lt;font style=&quot;font-size: 70px&quot;&gt;&lt;font style=&quot;font-size: 70px&quot;&gt;&lt;br&gt;&lt;a href=&quot;http://www.constitution.ru/10003000/10003000-3.htm&quot;&gt;(КРФ ст. 3)&lt;/a&gt;&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;fontSize=22;labelBorderColor=none;" parent="1" vertex="1">
+        <mxCell id="6s66NV4vt8chrmx0iCpv-6" value="&lt;h2 style=&quot;font-size: 70px&quot;&gt;&lt;font style=&quot;font-size: 70px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/h2&gt;&lt;h2 style=&quot;font-size: 70px&quot;&gt;&lt;font style=&quot;font-size: 70px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/h2&gt;&lt;h2 style=&quot;font-size: 70px&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/h2&gt;&lt;h2 style=&quot;font-size: 90px&quot;&gt;&lt;font style=&quot;font-size: 90px&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Многонациональный народ -&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/h2&gt;&lt;h2 style=&quot;font-size: 90px&quot;&gt;&lt;font style=&quot;font-size: 90px&quot;&gt;Единственный источник власти в Российской Федерации&lt;/font&gt;&lt;/h2&gt;&lt;font style=&quot;font-size: 90px&quot;&gt;&lt;font style=&quot;font-size: 90px&quot;&gt;&lt;font style=&quot;font-size: 90px&quot;&gt;&lt;font style=&quot;font-size: 90px&quot;&gt;&lt;br&gt;&lt;a href=&quot;http://www.constitution.ru/10003000/10003000-3.htm&quot;&gt;(КРФ ст. 3)&lt;/a&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;fontSize=22;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2617.18" y="-3090" width="8650" height="760" as="geometry" />
         </mxCell>
-        <mxCell id="BOK2Z9U-mobNOYfkqRVI-6" value="&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 80px&quot;&gt;Субъект РФ &lt;br&gt;(85 регионов)&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;strokeWidth=3;dashed=1;dashPattern=1 1;labelBorderColor=none;" parent="1" vertex="1">
+        <mxCell id="BOK2Z9U-mobNOYfkqRVI-6" value="&lt;font style=&quot;font-size: 100px&quot;&gt;&lt;span&gt;Субъект РФ &lt;br&gt;(85 регионов)&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;strokeWidth=3;dashed=1;dashPattern=1 1;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="4322.5" y="-2250" width="690" height="430" as="geometry" />
         </mxCell>
         <mxCell id="voa3eHzYzquz5-96p8Kh-12" value="" style="group;labelBorderColor=none;" parent="1" vertex="1" connectable="0">
@@ -2792,10 +2783,10 @@
             <mxPoint x="5" y="-69.41" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6s66NV4vt8chrmx0iCpv-7" value="&lt;font style=&quot;font-size: 33px&quot;&gt;&lt;b&gt;Президент&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=1;fillColor=#ffffff;fontSize=22;labelBorderColor=none;" parent="1" vertex="1">
+        <mxCell id="6s66NV4vt8chrmx0iCpv-7" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 40px&quot;&gt;Президент&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=1;fillColor=#ffffff;fontSize=32;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="-220" width="310" height="113.5" as="geometry" />
         </mxCell>
-        <mxCell id="JpQDv14zgwYBm9CtY0oU-27" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 30px&quot;&gt;Законодательный процесс&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;labelBorderColor=none;" parent="1" vertex="1">
+        <mxCell id="JpQDv14zgwYBm9CtY0oU-27" value="&lt;font style=&quot;font-size: 34px;&quot;&gt;&lt;b style=&quot;font-size: 34px;&quot;&gt;Законодательный процесс&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=34;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="1836.58" y="770" width="469.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JpQDv14zgwYBm9CtY0oU-111" value="Одобрен" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=24;labelBorderColor=none;" parent="1" source="JpQDv14zgwYBm9CtY0oU-28" target="JpQDv14zgwYBm9CtY0oU-103" edge="1">
@@ -4746,6 +4737,18 @@
         </mxCell>
         <mxCell id="CnSB5WjEqUv2LkuJzuw6-26" value="&lt;font style=&quot;font-size: 18px&quot;&gt;By Andrey Formozov&lt;br&gt;On Behalf of the Formozoli Lab&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="6900" y="5494.5" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uPR9jiDXIt8pA51z1aF--1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-770" y="-3700" width="3980" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="BOK2Z9U-mobNOYfkqRVI-3" value="&lt;span style=&quot;font-size: 70px&quot;&gt;Российская Федерация - Россия есть &lt;b&gt;демократическое&lt;/b&gt; &lt;b&gt;федеративное правовое&lt;/b&gt; государство с республиканской формой правления &lt;a href=&quot;http://www.constitution.ru/10003000/10003000-3.htm&quot;&gt;(КРФ ст. 1)&lt;/a&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=22;labelBorderColor=none;" parent="uPR9jiDXIt8pA51z1aF--1" vertex="1">
+          <mxGeometry x="725" y="350" width="2502.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SHwfKiG8VsqnQbQ3AwZ6-10" value="&lt;font style=&quot;font-size: 160px&quot;&gt;Структура власти в Российской Федерации&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=120;labelBorderColor=none;" parent="uPR9jiDXIt8pA51z1aF--1" vertex="1">
+          <mxGeometry width="3980" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SHwfKiG8VsqnQbQ3AwZ6-12" value="Закрепленная в Конституции и Федеральных Законах&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelBorderColor=none;" parent="uPR9jiDXIt8pA51z1aF--1" vertex="1">
+          <mxGeometry x="730" y="130" width="2500" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
